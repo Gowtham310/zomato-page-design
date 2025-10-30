@@ -18,10 +18,6 @@ Click the link above to explore the full UI flow of the homepage.
 - **Design Style:** Minimal, bold, and consistent with Zomato’s brand color scheme  
 
 
-## 🖼️ Preview
-![Zomato Homepage Preview](preview.png)
-
-
 ## 🧰 Tools & Techniques Used
 - **Figma** – UI/UX design & prototyping  
 - **Auto Layout** – for responsive alignment  
